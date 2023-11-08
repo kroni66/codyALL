@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\eterImageLib\Release\eterImageLib.lib
+C:\Users\michael\Desktop\Binary\Client\eterImageLib\Release\eterImageLib.lib

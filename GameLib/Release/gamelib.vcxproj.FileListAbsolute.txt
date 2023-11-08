@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\GameLib\Release\gamelib.lib
+C:\Users\michael\Desktop\Binary\Client\GameLib\Release\gamelib.lib

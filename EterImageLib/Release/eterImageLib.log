@@ -1,0 +1,5 @@
+﻿  StdAfx.cpp
+  DXTCImage.cpp
+  Image.cpp
+  TGAImage.cpp
+  eterImageLib.vcxproj -> C:\Users\michael\Desktop\Binary\Client\eterImageLib\Release\eterImageLib.lib

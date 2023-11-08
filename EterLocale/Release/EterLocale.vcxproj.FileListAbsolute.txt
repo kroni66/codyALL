@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\EterLocale\Release\EterLocale.lib
+C:\Users\michael\Desktop\Binary\Client\EterLocale\Release\EterLocale.lib

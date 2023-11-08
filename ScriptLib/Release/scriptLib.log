@@ -1,0 +1,8 @@
+﻿  StdAfx.cpp
+  PythonDebugModule.cpp
+  PythonLauncher.cpp
+  PythonMarshal.cpp
+  PythonUtils.cpp
+  Resource.cpp
+C:\Users\michael\Desktop\Binary\Client\eterLib\SkyBox.h(108,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file Resource.cpp)
+  scriptLib.vcxproj -> C:\Users\michael\Desktop\Binary\Client\scriptLib\Release\scriptLib.lib

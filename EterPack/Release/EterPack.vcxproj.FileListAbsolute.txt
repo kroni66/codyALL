@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\EterPack\Release\EterPack.lib
+C:\Users\michael\Desktop\Binary\Client\EterPack\Release\EterPack.lib

@@ -1,0 +1,28 @@
+﻿  CPostIt.cpp
+  CRC32.cpp
+  Debug.cpp
+  FileBase.cpp
+  FileDir.cpp
+  FileLoader.cpp
+  MappedFile.cpp
+  Random.cpp
+C:\Users\michael\Desktop\Binary\Client\EterBase\Random.cpp(19,11): warning C5033: 'register' is no longer a supported storage class
+  StdAfx.cpp
+  Stl.cpp
+  TempFile.cpp
+  Timer.cpp
+  Utils.cpp
+  cipher.cpp
+  error.cpp
+  lzo.cpp
+  Base.cpp
+C:\Users\michael\Desktop\Binary\Client\EterBase\Utils.cpp(393,14): warning C5033: 'register' is no longer a supported storage class
+C:\Users\michael\Desktop\Binary\Client\EterBase\Utils.cpp(410,14): warning C5033: 'register' is no longer a supported storage class
+  Poly.cpp
+C:\Users\michael\Desktop\Binary\extern\include\cryptopp\algparam.h(404,13): warning C4996: 'std::uncaught_exception': warning STL4006: std::uncaught_exception() is deprecated in C++17. It is superseded by std::uncaught_exceptions(), plural. You can define _SILENCE_CXX17_UNCAUGHT_EXCEPTION_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to suppress this warning. (compiling source file cipher.cpp)
+  SymTable.cpp
+  Symbol.cpp
+  tea.cpp
+C:\Users\michael\Desktop\Binary\Client\EterBase\tea.cpp(34,11): warning C5033: 'register' is no longer a supported storage class
+C:\Users\michael\Desktop\Binary\Client\EterBase\tea.cpp(51,11): warning C5033: 'register' is no longer a supported storage class
+  eterBase.vcxproj -> C:\Users\michael\Desktop\Binary\Client\EterBase\Release\eterBase.lib

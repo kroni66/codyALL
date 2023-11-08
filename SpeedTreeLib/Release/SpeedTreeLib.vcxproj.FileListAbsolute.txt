@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\SpeedTreeLib\Release\SpeedTreeLib.lib
+C:\Users\michael\Desktop\Binary\Client\SpeedTreeLib\Release\SpeedTreeLib.lib

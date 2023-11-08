@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\eterGrnLib\Release\eterGrnLib.lib
+C:\Users\michael\Desktop\Binary\Client\eterGrnLib\Release\eterGrnLib.lib

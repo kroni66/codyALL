@@ -1,0 +1,191 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  StdAfx.cpp
+C:\Users\michael\Desktop\Binary\Client\eterLib\SkyBox.h(108,2): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes
+  AccountConnector.cpp
+  AffectFlagContainer.cpp
+  CCpuId.cpp
+  CHddData.cpp
+  CHwidManager.cpp
+  CMacAddr.cpp
+  CMachineGuid.cpp
+  CNetworkAdapter.cpp
+  CameraProcedure.cpp
+  CheckLatestFiles.cpp
+  GameType.cpp
+  GuildMarkDownloader.cpp
+  GuildMarkUploader.cpp
+  InstanceBase.cpp
+  InstanceBaseBattle.cpp
+  InstanceBaseEffect.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file AccountConnector.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file GameType.cpp)
+  InstanceBaseEvent.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file GuildMarkUploader.cpp)
+  InstanceBaseMotion.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file InstanceBaseEffect.cpp)
+C:\Users\michael\Desktop\Binary\extern\include\cryptopp\algparam.h(404,13): warning C4996: 'std::uncaught_exception': warning STL4006: std::uncaught_exception() is deprecated in C++17. It is superseded by std::uncaught_exceptions(), plural. You can define _SILENCE_CXX17_UNCAUGHT_EXCEPTION_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to suppress this warning. (compiling source file AccountConnector.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file GuildMarkDownloader.cpp)
+  InstanceBaseMovement.cpp
+  InstanceBaseTransform.cpp
+  InsultChecker.cpp
+  Locale.cpp
+  MarkImage.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file InstanceBase.cpp)
+  MarkManager.cpp
+  MovieMan.cpp
+  NetworkActorManager.cpp
+  ProcessCRC.cpp
+  ProcessScanner.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file Locale.cpp)
+  PythonAcce.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file MovieMan.cpp)
+  PythonApplication.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonAcce.cpp)
+  PythonApplicationCamera.cpp
+  PythonApplicationCursor.cpp
+  PythonApplicationEvent.cpp
+  PythonApplicationLogo.cpp
+  PythonApplicationModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonApplicationCamera.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonApplicationCursor.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonApplicationEvent.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonApplication.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonApplicationLogo.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonApplicationModule.cpp)
+  PythonApplicationProcedure.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\PythonApplication.cpp(1144,74): warning C4474: '_snprintf' : too many arguments passed for format string
+C:\Users\michael\Desktop\Binary\Client\UserInterface\PythonApplication.cpp(1144,74): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  PythonApplicationWebPage.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonApplicationProcedure.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonApplicationWebPage.cpp)
+  PythonBackground.cpp
+  PythonBackgroundModule.cpp
+  PythonCharacterManager.cpp
+  PythonCharacterManagerModule.cpp
+  PythonCharacterModule.cpp
+  PythonChat.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonChat.cpp)
+  PythonChatModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonChatModule.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonCharacterModule.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonBackground.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonCharacterManager.cpp)
+  PythonConfig.cpp
+  PythonConfigModule.cpp
+  PythonCubeRenewal.cpp
+  PythonDynamicModuleNames.cpp
+  PythonEffectModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonCubeRenewal.cpp)
+  PythonEventManager.cpp
+  PythonEventManagerMoudle.cpp
+  PythonExceptionSender.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonConfigModule.cpp)
+  PythonExchange.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonEventManager.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonExchange.cpp)
+  PythonExchangeModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonEventManagerMoudle.cpp)
+  PythonFlyModule.cpp
+  PythonGameEventManagerModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonExchangeModule.cpp)
+  PythonGuild.cpp
+  PythonIME.cpp
+  PythonIMEModule.cpp
+  PythonItem.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonGuild.cpp)
+  PythonItemModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonIMEModule.cpp)
+  PythonMessenger.cpp
+  PythonMiniMap.cpp
+  PythonMiniMapModule.cpp
+  PythonNetworkDatagram.cpp
+  PythonNetworkDatagramModule.cpp
+  PythonNetworkStream.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonItemModule.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStream.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonItem.cpp)
+  PythonNetworkStreamCommand.cpp
+  PythonNetworkStreamEvent.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonMiniMap.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamCommand.cpp)
+  PythonNetworkStreamModule.cpp
+  PythonNetworkStreamOfflineshop.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamEvent.cpp)
+  PythonNetworkStreamPhaseGame.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamModule.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamOfflineshop.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamPhaseGame.cpp)
+  PythonNetworkStreamPhaseGameActor.cpp
+  PythonNetworkStreamPhaseGameItem.cpp
+  PythonNetworkStreamPhaseHandShake.cpp
+  PythonNetworkStreamPhaseLoading.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamPhaseGameActor.cpp)
+  PythonNetworkStreamPhaseLogin.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamPhaseGameItem.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamPhaseHandShake.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamPhaseLoading.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamPhaseLogin.cpp)
+  PythonNetworkStreamPhaseOffline.cpp
+  PythonNetworkStreamPhaseSelect.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamPhaseOffline.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNetworkStreamPhaseSelect.cpp)
+  PythonNonPlayer.cpp
+  PythonNonPlayerModule.cpp
+  PythonOfflineshop.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonOfflineshop.cpp)
+  PythonPackModule.cpp
+  PythonPlayer.cpp
+  PythonPlayerEventHandler.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonNonPlayer.cpp)
+  PythonPlayerInput.cpp
+  PythonPlayerInputKeyboard.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonPlayerInput.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonPlayerInputKeyboard.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonPlayer.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonPlayerEventHandler.cpp)
+  PythonPlayerInputMouse.cpp
+  PythonPlayerModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonPlayerInputMouse.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonPlayerModule.cpp)
+  PythonPlayerSkill.cpp
+  PythonProfilerModule.cpp
+  PythonQuest.cpp
+  PythonSafeBox.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonPlayerSkill.cpp)
+  PythonShop.cpp
+  PythonSkill.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonShop.cpp)
+  PythonSkillPet.cpp
+  PythonSoundManagerModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonSkill.cpp)
+  PythonSwitchbot.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonSoundManagerModule.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonSkillPet.cpp)
+  PythonSystem.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonSwitchbot.cpp)
+  PythonSystemModule.cpp
+  PythonTextTail.cpp
+  PythonTextTailModule.cpp
+  PythonWikiModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonSystem.cpp)
+  PythonWikiRenderTarget.cpp
+  PythonrootlibManager.cpp
+  ServerStateChecker.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonWikiModule.cpp)
+  ServerStateCheckerModule.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonTextTail.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file ServerStateChecker.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file PythonWikiRenderTarget.cpp)
+  TextTrans.cpp
+  UserInterface.cpp
+  minIni.cpp
+C:\Users\michael\Desktop\Binary\Client\UserInterface\minIni.cpp(38,1): warning C4005: 'assert': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\assert.h(29,1): message : see previous definition of 'assert' (compiling source file minIni.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\minIni.cpp(636,21): warning C4101: 'tail': unreferenced local variable
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Packet.h(3220,17): warning C5208: unnamed class used in typedef name cannot declare members other than non-static data members, member enumerations, or member classes (compiling source file UserInterface.cpp)
+C:\Users\michael\Desktop\Binary\Client\UserInterface\UserInterface.cpp(530,20): warning C4129: 'Y': unrecognized character escape sequence
+  libconfig++.lib(libconfigcpp.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+     Creating library ..\bin\.WoM2.lib and object ..\bin\.WoM2.exp
+  Generating code
+  Finished generating code
+  UserInterface.vcxproj -> C:\Users\michael\Desktop\Binary\Client\bin\.WoM2.exe

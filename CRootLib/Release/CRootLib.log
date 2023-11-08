@@ -1,0 +1,251 @@
+﻿  cythonizing root
+  Root\colorinfo.py
+  Root\consolemodule.py
+  Root\constinfo.py
+  Root\dailygift.py
+  Root\debuginfo.py
+  Root\dragon_soul_refine_settings.py
+  Root\emotion.py
+  Root\exception.py
+  Root\game.py
+  Root\ingamewiki.py
+  Root\ingamewikiconfig.py
+  Root\ingamewikiui.py
+  Root\interfacemodule.py
+  Root\introcreate.py
+  Root\introempire.py
+  Root\introloading.py
+  Root\intrologin.py
+  Root\introselect.py
+  Root\localeinfo.py
+  Root\marek38.py
+  Root\mousemodule.py
+  Root\musicinfo.py
+  Root\networkmodule.py
+  Root\playersettingmodule.py
+  Root\prototype.py
+  Root\servercommandparser.py
+  Root\serverinfo.py
+  Root\stringcommander.py
+  Root\system.py
+  Root\test_affect.py
+  Root\ui.py
+  Root\uiacce.py
+  Root\uiaffectshower.py
+  Root\uiattachmetin.py
+  Root\uiattrdialog.py
+  Root\uiattrtransfer.py
+  Root\uiauction.py
+  Root\uiautoban.py
+  Root\uibattlepass.py
+  Root\uibattleroyale.py
+  Root\uibiolog.py
+  Root\uicandidate.py
+  Root\uichannel.py
+  Root\uicharacter.py
+  Root\uicharacterdetails.py
+  Root\uichat.py
+  Root\uicommon.py
+  Root\uicube.py
+  Root\uicuberenewal.py
+  Root\uidoctrinechoose.py
+  Root\uidragonlairranking.py
+  Root\uidragonsoul.py
+  Root\uiduel.py
+  Root\uidungeoninfo.py
+  Root\uiequipmentdialog.py
+  Root\uiex.py
+  Root\uiexchange.py
+  Root\uiextrainventory.py
+  Root\uifishing.py
+  Root\uigamebutton.py
+  Root\uigameoption.py
+  Root\uiguild.py
+  Root\uiguildrank.py
+  Root\uiinventory.py
+  Root\uimapnameshower.py
+  Root\uimarketsystem.py
+  Root\uimessenger.py
+  Root\uiminimap.py
+  Root\uiofflineshop.py
+  Root\uioption.py
+  Root\uiparty.py
+  Root\uipetenchant.py
+  Root\uipetevownd.py
+  Root\uipetfeed.py
+  Root\uipetincubatrice.py
+  Root\uipetsystem.py
+  Root\uiphasecurtain.py
+  Root\uipickmoney.py
+  Root\uiplayergauge.py
+  Root\uipointreset.py
+  Root\uiprivateshopbuilder.py
+  Root\uiquest.py
+  Root\uiranking.py
+  Root\uirefine.py
+  Root\uirestart.py
+  Root\uirune.py
+  Root\uisafebox.py
+  Root\uisavepoint.py
+  Root\uiscriptlocale.py
+  Root\uiselectitem.py
+  Root\uiselectmusic.py
+  Root\uishop.py
+  Root\uiskillcolor.py
+  Root\uiswitchbot.py
+  Root\uisystem.py
+  Root\uisystemgems.py
+  Root\uisystemoption.py
+  Root\uitarget.py
+  Root\uitaskbar.py
+  Root\uiteleporter.py
+  Root\uitip.py
+  Root\uitooltip.py
+  Root\uiuploadmark.py
+  Root\uiweb.py
+  Root\uiwheel.py
+  Root\uiwhisper.py
+  Root\utils.py
+  Root\whispermanager.py
+        108 file(s) copied.
+  copy completed
+  Press any key to continue . . . 
+          1 file(s) copied.
+          1 file(s) copied.
+  PythonrootlibManager successfully created.
+  Press any key to continue . . . 
+  colorinfo.c
+  consolemodule.c
+  constinfo.c
+  dailygift.c
+  debuginfo.c
+  dragon_soul_refine_settings.c
+  emotion.c
+  exception.c
+  game.c
+  ingamewiki.c
+  ingamewikiconfig.c
+  ingamewikiui.c
+  interfacemodule.c
+  introcreate.c
+  introempire.c
+  introloading.c
+  intrologin.c
+  introselect.c
+  localeinfo.c
+  marek38.c
+  mousemodule.c
+  musicinfo.c
+  networkmodule.c
+  playersettingmodule.c
+  prototype.c
+  servercommandparser.c
+  serverinfo.c
+  stringcommander.c
+  system.c
+  test_affect.c
+  ui.c
+  uiacce.c
+  uiaffectshower.c
+  uiattachmetin.c
+  uiattrdialog.c
+  uiattrtransfer.c
+  uiauction.c
+  uiautoban.c
+  uibattlepass.c
+  uibattleroyale.c
+  uibiolog.c
+  uicandidate.c
+  uichannel.c
+  uicharacter.c
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uicharacter.c(46231,45): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  uicharacterdetails.c
+  uichat.c
+  uicommon.c
+  uicube.c
+  uicuberenewal.c
+  uidoctrinechoose.c
+  uidragonlairranking.c
+  uidragonsoul.c
+  uiduel.c
+  uidungeoninfo.c
+  uiequipmentdialog.c
+  uiex.c
+  uiexchange.c
+  uiextrainventory.c
+  uifishing.c
+  uigamebutton.c
+  uigameoption.c
+  uiguild.c
+  uiguildrank.c
+  uiinventory.c
+  uimapnameshower.c
+  uimarketsystem.c
+  uimessenger.c
+  uiminimap.c
+  uiofflineshop.c
+  uioption.c
+  uiparty.c
+  uipetenchant.c
+  uipetevownd.c
+  uipetfeed.c
+  uipetincubatrice.c
+  uipetsystem.c
+  uiphasecurtain.c
+  uipickmoney.c
+  uiplayergauge.c
+  uipointreset.c
+  uiprivateshopbuilder.c
+  uiquest.c
+  uiranking.c
+  uirefine.c
+  uirestart.c
+  uirune.c
+  uisafebox.c
+  uisavepoint.c
+  uiscriptlocale.c
+  uiselectitem.c
+  uiselectmusic.c
+  uishop.c
+  uiskillcolor.c
+  uiswitchbot.c
+  uisystem.c
+  uisystemgems.c
+  uisystemoption.c
+  uitarget.c
+  uitaskbar.c
+  uiteleporter.c
+  uitip.c
+  uitooltip.c
+  uiuploadmark.c
+  uiweb.c
+  uiwheel.c
+  uiwhisper.c
+  utils.c
+  whispermanager.c
+  CRootLib.vcxproj -> C:\Users\michael\Desktop\Binary\Extern\lib\rootlib.lib
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\consolemodule.c(24716): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\game.c(25992): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\ingamewikiui.c(22653): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\interfacemodule.c(25657): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\introcreate.c(22490): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\intrologin.c(24217): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\introselect.c(22285): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\playersettingmodule.c(18403): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\ui.c(31314): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uibattlepass.c(22706): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uicharacter.c(23225): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uichat.c(24101): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uicuberenewal.c(22730): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uidragonsoul.c(21888): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uiguild.c(24467): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uiinventory.c(22351): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uimessenger.c(25872): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uiofflineshop.c(28585): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uipetsystem.c(23322): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uiprivateshopbuilder.c(23526): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uiquest.c(22666): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uiswitchbot.c(23018): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uitarget.c(21584): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uitaskbar.c(23189): warning BK4504: file contains too many references; ignoring further references from this source
+C:\Users\michael\Desktop\Binary\Client\CRootLib\Workplace\RootLib\cyTemp\uitooltip.c(25659): warning BK4504: file contains too many references; ignoring further references from this source

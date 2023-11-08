@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\UserInterface\Release\UserInterface.vcxproj.CopyComplete
+C:\Users\michael\Desktop\Binary\Client\UserInterface\Release\UserInterface.vcxproj.CopyComplete

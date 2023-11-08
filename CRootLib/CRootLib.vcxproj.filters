@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="compFiles">
+      <UniqueIdentifier>{a6ace22f-bc11-4d87-bb51-e841d38728e6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Workplace\RootLib\cyTemp\consolemodule.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\constinfo.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\dailygift.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\debuginfo.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\dragon_soul_refine_settings.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\emotion.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\exception.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\game.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\ingamewiki.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\ingamewikiconfig.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\ingamewikiui.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\interfacemodule.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\introcreate.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\introempire.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\introloading.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\intrologin.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\introselect.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\localeinfo.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\marek38.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\mousemodule.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\musicinfo.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\networkmodule.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\playersettingmodule.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\prototype.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\servercommandparser.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\serverinfo.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\stringcommander.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\system.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\test_affect.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\ui.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiacce.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiaffectshower.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiattachmetin.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiattrdialog.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiattrtransfer.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiauction.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiautoban.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uibattlepass.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uibattleroyale.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uibiolog.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uicandidate.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uichannel.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uicharacter.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uicharacterdetails.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uichat.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uicommon.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uicube.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uicuberenewal.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uidoctrinechoose.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uidragonlairranking.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uidragonsoul.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiduel.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uidungeoninfo.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiequipmentdialog.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiex.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiexchange.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiextrainventory.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uifishing.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uigamebutton.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uigameoption.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiguild.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiguildrank.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiinventory.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uimapnameshower.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uimarketsystem.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uimessenger.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiminimap.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiofflineshop.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uioption.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiparty.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uipetenchant.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uipetevownd.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uipetfeed.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uipetincubatrice.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uipetsystem.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiphasecurtain.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uipickmoney.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiplayergauge.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uipointreset.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiprivateshopbuilder.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiquest.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiranking.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uirefine.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uirestart.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uirune.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uisafebox.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uisavepoint.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiscriptlocale.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiselectitem.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiselectmusic.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uishop.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiskillcolor.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiswitchbot.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uisystem.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uisystemgems.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uisystemoption.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uitarget.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uitaskbar.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiteleporter.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uitip.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uitooltip.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiuploadmark.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiweb.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiwheel.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\uiwhisper.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\utils.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\whispermanager.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Workplace\RootLib\cyTemp\colorinfo.c">
+      <Filter>compFiles</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\SphereLib\Release\SphereLib.lib
+C:\Users\michael\Desktop\Binary\Client\SphereLib\Release\SphereLib.lib

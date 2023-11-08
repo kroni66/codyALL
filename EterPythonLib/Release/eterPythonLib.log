@@ -1,0 +1,13 @@
+﻿  StdAfx.cpp
+  PythonGraphic.cpp
+  PythonGraphicImageModule.cpp
+  PythonGraphicModule.cpp
+  PythonGraphicTextModule.cpp
+  PythonGraphicThingModule.cpp
+  PythonGridSlotWindow.cpp
+  PythonSlotWindow.cpp
+  PythonWindow.cpp
+  PythonWindowManager.cpp
+  PythonWindowManagerModule.cpp
+C:\Users\michael\Desktop\Binary\Client\eterPythonLib\PythonWindow.cpp(1999,47): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+  eterPythonLib.vcxproj -> C:\Users\michael\Desktop\Binary\Client\eterPythonLib\Release\eterPythonLib.lib

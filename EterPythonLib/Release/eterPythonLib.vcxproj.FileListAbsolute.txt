@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\eterPythonLib\Release\eterPythonLib.lib
+C:\Users\michael\Desktop\Binary\Client\eterPythonLib\Release\eterPythonLib.lib

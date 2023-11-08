@@ -1,0 +1,5 @@
+﻿  StdAfx.cpp
+  frustum.cpp
+  sphere.cpp
+  spherepack.cpp
+  SphereLib.vcxproj -> C:\Users\michael\Desktop\Binary\Client\SphereLib\Release\SphereLib.lib

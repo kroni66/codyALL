@@ -1,0 +1,6 @@
+﻿  EterPack.cpp
+  EterPackCursor.cpp
+  EterPackManager.cpp
+  StdAfx.cpp
+C:\Users\michael\Desktop\Binary\extern\include\cryptopp\algparam.h(404,13): warning C4996: 'std::uncaught_exception': warning STL4006: std::uncaught_exception() is deprecated in C++17. It is superseded by std::uncaught_exceptions(), plural. You can define _SILENCE_CXX17_UNCAUGHT_EXCEPTION_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to suppress this warning. (compiling source file EterPack.cpp)
+  EterPack.vcxproj -> C:\Users\michael\Desktop\Binary\Client\EterPack\Release\EterPack.lib

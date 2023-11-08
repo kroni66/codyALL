@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\WoM2\Binary\Client\CWebBrowser\Release\CWebBrowser.lib
+C:\Users\michael\Desktop\Binary\Client\CWebBrowser\Release\CWebBrowser.lib

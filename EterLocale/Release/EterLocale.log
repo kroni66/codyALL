@@ -1,0 +1,6 @@
+﻿  StdAfx.cpp
+  Arabic.cpp
+  Japanese.cpp
+  StringCodec.cpp
+  StringCodec_Vietnamese.cpp
+  EterLocale.vcxproj -> C:\Users\michael\Desktop\Binary\Client\EterLocale\Release\EterLocale.lib
